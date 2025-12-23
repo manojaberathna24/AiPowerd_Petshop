@@ -1,0 +1,15 @@
+# 1. Copy 'pet' folder to Desktop
+
+# 2. Create .env files (shown in guide)
+
+# 3. Install (one time)
+cd backend && npm install
+cd frontend && npm install
+cd chatbot && pip install fastapi uvicorn httpx python-dotenv
+
+# 4. Run (3 separate CMD windows)
+CMD 1: cd backend && node server.js
+CMD 2: cd frontend && npm start
+CMD 3: cd chatbot && uvicorn main:app --port 8000
+
+# 5. Open browser → http://localhost:3000
