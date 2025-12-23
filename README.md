@@ -1,8 +1,3 @@
-
-live on :  https://serene-crumble-7a5b1f.netlify.app/
-
-# MPS PetCare - AI-Powered Pet Care Hub 🐾
-
 A complete e-commerce and pet adoption platform with AI chatbot assistance.
 
 ## 🌟 Features
@@ -19,8 +14,11 @@ A complete e-commerce and pet adoption platform with AI chatbot assistance.
 
 ## 🚀 Live Demo
 
-**Frontend:** https://your-app.vercel.app  
-**Admin:** admin@mps.com / admin123
+**🌐 Website:** https://serene-crumble-7a5b1f.netlify.app  
+**🔧 Backend API:** https://aipowerdpetshop-production.up.railway.app  
+**🤖 AI Chatbot:** https://honest-adaptation-production.up.railway.app
+
+**Admin Login:** 
 
 ## 💻 Tech Stack
 
@@ -114,18 +112,17 @@ uvicorn main:app --reload --port 8000
 - **Backend:** http://localhost:5000
 - **Chatbot:** http://localhost:8000
 
-## 🌐 FREE Deployment Guide
+## 🌐 Deployment Stack (100% FREE)
 
-See **[DEPLOYMENT_GUIDE.md](DEPLOYMENT_GUIDE.md)** for complete step-by-step instructions.
+This project is deployed using:
+- **Frontend:** Netlify (Free tier)
+- **Backend:** Railway (Free tier - $5/month credit)
+- **Chatbot:** Railway (Free tier - $5/month credit)
+- **Database:** MongoDB Atlas (Free M0 - 512MB)
 
-**Quick Deploy Stack (100% Free):**
-- Frontend → **Vercel**
-- Backend → **Render**
-- Chatbot → **Render**
-- Database → **MongoDB Atlas** (512MB free)
-- Images → **Cloudinary** (25GB free)
+**Total Cost:** $0/month forever!
 
-**Use [DEPLOYMENT_CHECKLIST.md](DEPLOYMENT_CHECKLIST.md)** to track your progress!
+See **[SIMPLE_DEPLOYMENT_GUIDE.md](SIMPLE_DEPLOYMENT_GUIDE.md)** for complete step-by-step deployment instructions.
 
 ## 👥 Default Users
 
