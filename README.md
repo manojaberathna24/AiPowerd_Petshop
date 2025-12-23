@@ -1,3 +1,6 @@
+
+live on :  https://serene-crumble-7a5b1f.netlify.app/
+
 # MPS PetCare - AI-Powered Pet Care Hub 🐾
 
 A complete e-commerce and pet adoption platform with AI chatbot assistance.
