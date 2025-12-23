@@ -258,17 +258,3 @@ Contributions welcome:
 * Vercel and Render for hosting
 * React community
 
----
-
-**Built with love by MPS AI Solutions Pvt Ltd**
-
-*Empowering pet care through technology*
-
----
-
-If you want, I can also:
-
-* Make it **GitHub README optimized**
-* Convert to **project report format**
-* Shorten it for **portfolio / CV**
-* Rewrite in **Sinhala**
